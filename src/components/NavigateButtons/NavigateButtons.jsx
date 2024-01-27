@@ -19,7 +19,7 @@ function NavigateButtons() {
                   size="lg"
                   variant="outlined"
                   ripple={true}
-                  className="hover:bg-purple-500 hover:text-white duration-300 ease-in-out"
+                  className="hover:bg-purple-900 hover:text-white duration-300 ease-in-out"
                   onClick={() => dispatch(filteredProducts(buttons))}
                 >
                   {buttons}

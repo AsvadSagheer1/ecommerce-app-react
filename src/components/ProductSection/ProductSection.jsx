@@ -5,7 +5,7 @@ import ProductSectionItem from "./ProductSectionItem";
 const ProductSection = () => {
   return (
     <div>
-      <div className="bg-purple-300 p-2 w-[50%] mx-auto rounded-md">
+      <div className="bg-purple-900 p-2 w-[50%] mx-auto rounded-md">
         <h2 className="text-white text-center text-lg font-inter font-bold tracking-normal leading-none">
           Winter End SALE 30%
         </h2>
